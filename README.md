@@ -1,2 +1,2 @@
 # international-football-results-analysis
-Simple data analysis of international football matches based on a Kaggle dataset
+Construction of a database to perform queries to analyse international football results.
